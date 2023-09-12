@@ -1,4 +1,4 @@
-# Mock Amazon XLS Database
+# vba-db ~ Mock Amazon XLS Database
 
 Welcome to the Mock Amazon XLS Database repository! This project represents a robust Visual Basic GUI tool tailored for XLS files. It empowers users to efficiently manage product orders within a warehouse. The tool incorporates essential features such as adding, deleting, and editing existing product orders. Moreover, it offers the convenience of automatic email notifications for shipping and price updates to keep customers informed. Notably, the end-product also includes a powerful calculator for profit margins and costs.
 
