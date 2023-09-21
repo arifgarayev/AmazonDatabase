@@ -3,7 +3,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/garayevarif/)
 
-Visual Basic GUI tool for XLS extension for clients to efficiently manage/track their product orders within a warehouse using this tool. It incorporates features such: adding, deleting, and editing existing product orders (CRUD). Offering automatic email notifications for shipping and price updates to keep customers informed. A powerful calculator for profit margins and costs is included.
+Visual Basic GUI tool for XLS extension for clients to efficiently manage/track their product orders within a warehouse. It incorporates features such: adding, deleting, and editing existing product orders (CRUD). Offering automatic email notifications for shipping and price updates to keep customers informed. A powerful calculator for profit margins and costs is included.
 
 ## Usage
 
