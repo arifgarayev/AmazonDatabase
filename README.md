@@ -1,6 +1,9 @@
 # vba-db ~ Mock Amazon XLS Database
 
-Welcome to the Mock Amazon XLS Database repository! This project represents a robust Visual Basic GUI tool tailored for XLS files. It empowers users to efficiently manage product orders within a warehouse. The tool incorporates essential features such as adding, deleting, and editing existing product orders. Moreover, it offers the convenience of automatic email notifications for shipping and price updates to keep customers informed. Notably, the end-product also includes a powerful calculator for profit margins and costs.
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/garayevarif/)
+
+Visual Basic GUI tool for XLS extensions. Clients are efficiently manage/track their product orders within a warehouse using this tool. It incorporates features such: adding, deleting, and editing existing product orders (CRUD). Offering automatic email notifications for shipping and price updates to keep customers informed. A powerful calculator for profit margins and costs is included.
 
 ## Usage
 
@@ -10,25 +13,21 @@ To make the most of this tool, follow the steps below:
 
 1. **Enable Content Editing**:
    - Open the XLS file in Microsoft Excel.
-   - If prompted, make sure to enable content editing to access the tool's full range of features.
+   - If prompted, make sure to enable content editing (Enable edit).
 
 ### Login
 
 Use the following credentials to log in:
 
-- **Username**: admin
-- **Password**: 123
+- **Username**: ```admin```
+- **Password**: ```123```
 
-Once logged in, you'll have access to the GUI and its various functionalities for managing your warehouse orders seamlessly.
+Once logged in, you'll have access to the GUI and functionalities for managing your warehouse orders.
 
 ## Contributions
 
-Contributions to this project are encouraged and welcome! If you have suggestions for improvements or encounter any issues, please consider submitting a pull request or opening an issue.
+Contributions to this project are welcomed! If you have suggestions for improvements or encounter any issues, please consider submitting a pull request or opening an issue.
 
 ## License
 
 This project is licensed under the [MIT License](https://mit-license.org/).
-
----
-
-Feel free to explore the capabilities of the Mock Amazon XLS Database tool. If you encounter any difficulties or have questions, please don't hesitate to reach out. Enjoy efficient warehouse management!
